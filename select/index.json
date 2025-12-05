@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "春が来るまでは",
+  "base_artist": "大神ミオ",
+  "createdAt": "2025-12-05T19:10:37.468390Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春が来るまでは",
+      "artist": "大神ミオ",
+      "has_synced": false,
+      "path": "select/01_春が来るまでは_大神ミオ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春が来るまでは",
+      "artist": "大神ミオ",
+      "has_synced": false,
+      "path": "select/pl_01_春が来るまでは_大神ミオ.txt"
+    }
+  ]
+}
